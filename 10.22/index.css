@@ -1,0 +1,588 @@
+.a {
+    width: 100%;
+    height: 100%;
+    background: #f6f6f6;
+}
+
+.box {
+    width: 100%;
+    height: 0.88rem;
+}
+
+.boxA {
+    width: 7.02rem;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.boxp {
+    line-height: 0.88rem;
+    font-size: 0.4rem;
+    float: left;
+}
+
+.boxp1 {
+    float: left;
+    margin-top: 0.28rem;
+    margin-left: 2.95rem;
+}
+
+.boxp1 img {
+    width: 0.92rem;
+    height: 0.3rem;
+}
+
+.boxb1 {
+    width: 0.08rem;
+    height: 0.08rem;
+    border-radius: 50%;
+    margin-left: 0.06rem;
+    float: right;
+    background: #000000;
+    margin-top: 0.39rem;
+}
+
+.boxc {
+    float: left;
+    line-height: 0.88rem;
+    margin-right: 1rem;
+    font-size: 0.24rem;
+}
+
+.boxc1 {
+    float: right;
+    line-height: 0.88rem;
+    font-size: 0.24rem;
+}
+
+.boxd {
+    width: 7.5rem;
+    height: 3.84rem;
+}
+
+.boxd1 {
+    width: 1rem;
+    height: 0.2rem;
+    /*background: #424242;*/
+    position: relative;
+    bottom: 0.35rem;
+    left: 3rem;
+}
+
+.boxd2 {
+    width: 0.08rem;
+    height: 0.08rem;
+    border-radius: 50%;
+    background: #b0b0b0;
+    float: left;
+    margin-left: 0.22rem;
+    border: 0.01rem solid #424242;
+}
+
+.boxd3 {
+    width: 1.09rem;
+    height: 0.33rem;
+    background: #ffcb3f;
+    border-radius: 0.1rem;
+    position: relative;
+    bottom: 1.54rem;
+    left: 0.66rem;
+    color: white;
+    font-size: 0.25rem;
+    text-align: center;
+    line-height: 0.33rem;
+}
+
+.boxe {
+    width: 2rem;
+    height: 0.91rem;
+    margin: 0 auto;
+}
+
+.boxe1 {
+    width: 2.2rem;
+    height: 0.2rem;
+    font-size: 0.18rem;
+}
+
+.boxe2 {
+    width: 1.48rem;
+    height: 0.01rem;
+    background: #d7d7d7;
+    margin-top: 0.1rem;
+}
+
+.boxe3 {
+    width: 0.48rem;
+    height: 0.01rem;
+    background: #ffcb3f;
+    margin-top: 0.1rem;
+}
+
+.boxe4 {
+    float: left;
+}
+
+.boxe5 {
+    float: right;
+    color: #ffcb3f;
+    margin-right: 0.5rem;
+}
+
+.boxe6 {
+    width: 0.34rem;
+    height: 0.02rem;
+    background: #000000;
+    margin-top: 30%;
+    margin-left: 35%;
+}
+
+.boxz {
+    background: #f6f6f6;
+}
+
+.boxr {
+    width: 6.69rem;
+    height: 6.93rem;
+    background: white;
+    margin: 0 auto;
+}
+
+.boxr1 {
+    width: 6.25rem;
+    height: 2.62rem;
+    margin-top: 16%;
+    margin-left: 5%;
+}
+
+.boxr2 {
+    font-size: 0.31rem;
+    font-weight: bold;
+    margin-left: 9%;
+}
+
+.boxr3 {
+    font-size: 0.2rem;
+    margin-top: 2%;
+    margin-left: 9%;
+}
+
+.boxr4 {
+    font-size: 0.3rem;
+    font-weight: bold;
+    float: left;
+    margin-left: 9%;
+    margin-top: 16%;
+}
+
+.boxr5 {
+    font-size: 0.18rem;
+    float: left;
+    margin-top: 17.5%;
+
+}
+
+.boxr6 {
+    font-size: 0.18rem;
+    margin-top: 22%;
+    margin-left: 9%;
+}
+
+.boxr7::after {
+    content: none;
+    display: block;
+    clear: both;
+}
+
+.boxra {
+    width: 0.16rem;
+    height: 0.16rem;
+    border-radius: 50%;
+    background: #abe3e6;
+    margin-left: 6.02rem;
+    margin-top: -2rem;
+}
+
+.boxra1 {
+    width: 0.21rem;
+    height: 0.21rem;
+    border-radius: 50%;
+    background: #cecdca;
+    margin-left: 6rem;
+    margin-top: 0.26rem;
+}
+
+.boxra2 {
+    width: 0.16rem;
+    height: 0.16rem;
+    border-radius: 50%;
+    background: #ffcb3f;
+    margin-left: 6.02rem;
+    margin-top: 0.26rem;
+}
+
+.imga {
+    width: 0.28rem;
+    height: 0.07rem;
+    margin-top: 0.8rem;
+}
+
+.boxlp {
+    width: 100%;
+    height: 10rem;
+    background: #f6f6f6;
+}
+
+.boxq {
+    width: 3.38rem;
+    height: 4.16rem;
+    background: white;
+    margin: 0.22rem 0.24rem 0.24rem 0.25rem;
+    float: left;
+}
+
+.boxq1 {
+    width: 3.4rem;
+    height: 4.19rem;
+    background: white;
+    margin-top: 0.22rem;
+    margin-right: 0.23rem;
+    float: right;
+}
+
+.boxq2 {
+    width: 3.41rem;
+    height: 4.19rem;
+    background: white;
+    margin: 0 0.21rem 0.24rem 0.25rem;
+    float: left;
+}
+
+.boxq3 {
+    width: 3.39rem;
+    height: 4.18rem;
+    background: white;
+    float: right;
+    margin-right: 0.23rem;
+}
+
+.boxqa {
+    width: 1.8rem;
+    height: 1.62rem;
+    margin-left: 0.45rem;
+    margin-top: 0.2rem;
+}
+
+.boxqa1 {
+    font-size: 0.18rem;
+    margin-left: 0.45rem;
+    margin-top: 0.19rem;
+}
+
+.boxqa2 {
+    font-size: 0.26rem;
+    margin-left: 0.45rem;
+    margin-top: 0.1rem;
+    font-weight: bold;
+}
+
+.boxqa3 {
+    font-size: 0.26rem;
+    margin-left: 0.45rem;
+    margin-top: 0.5rem;
+    font-weight: bold;
+}
+
+.boxqa4 {
+    font-size: 0.18rem;
+    position: relative;
+    bottom: 0.35rem;
+    left: 0.9rem;
+}
+
+.boxqa5 {
+    font-size: 0.18rem;
+    margin-left: 0.45rem;
+    position: relative;
+    bottom: 0.2rem;
+}
+
+.boxral {
+    width: 0.14rem;
+    height: 0.14rem;
+    border-radius: 50%;
+    background: #abe3e6;
+    margin-left: 2.86rem;
+    margin-top: -1rem;
+}
+
+.boxral1 {
+    width: 0.18rem;
+    height: 0.18rem;
+    border-radius: 50%;
+    background: #cecdca;
+    margin-left: 2.84rem;
+    margin-top: 0.2rem;
+}
+
+.boxral2 {
+    width: 0.14rem;
+    height: 0.14rem;
+    border-radius: 50%;
+    background: #ffcb3f;
+    margin-left: 2.86rem;
+    margin-top: 0.2rem;
+}
+
+.imga1 {
+    width: 0.28rem;
+    height: 0.07rem;
+    margin-left: 0.3rem;
+    margin-bottom: 0.05rem;
+}
+
+.gud {
+    width: 7.5rem;
+    height: 0.78rem;
+    background: #fcfcfc;
+    position: fixed;
+    bottom: 0;
+    padding: 0.2rem;
+}
+
+.gud1 {
+    float: left;
+    font-size: 0.2rem;
+    margin-left: 1.48rem;
+    /*margin-top: 0.6rem;*/
+}
+
+.gud2 {
+    float: left;
+    font-size: 0.2rem;
+    margin-left: 0.65rem;
+    /*margin-top: 0.6rem;*/
+    color: #ffcb3f;
+}
+
+.gud3 {
+    float: left;
+    font-size: 0.2rem;
+    margin-left: 1.37rem;
+    /*margin-top: 0.6rem;*/
+}
+
+.i1 {
+    margin-left: 0.67rem;
+    float: left;
+    color: #ffcb3f;
+}
+
+.i2 {
+    margin-left: 1.6rem;
+    float: left;
+}
+
+.i4 {
+    float: left;
+    margin-left: 1.6rem;
+}
+
+.boxm {
+    width: 100% 0;
+    height: 1rem;
+}
+
+.boxma {
+    width: 100%;
+    height: 5.51rem;
+    overflow: hidden;
+    display: flex;
+    background: #f6f6f6;
+}
+
+.boxma1 {
+    width: 3.09rem;
+    height: 5.51rem;
+    margin-left: 0.24rem;
+    background: white;
+    flex-shrink: 0;
+    overflow: hidden;
+}
+
+.box11 {
+    height: 2.88rem;
+    width: 3.5rem;
+}
+
+.box11a {
+    height: 2.88rem;
+    width: 3.5rem;
+    margin-left: -0.1rem;
+}
+
+.boxt {
+    width: 0.27rem;
+    height: 0.01rem;
+    background: #424242;
+    margin-top: 0.2rem;
+    margin-left: 0.17rem;
+}
+
+.boxt1 {
+    font-size: 0.18rem;
+    color: #424242;
+    margin-left: 0.17rem;
+}
+
+.boxt2 {
+    font-size: 0.24rem;
+    color: #424242;
+    margin-left: 0.17rem;
+}
+
+.boxt3 {
+    font-size: 0.36rem;
+    color: #424242;
+    margin-left: 0.17rem;
+    float: left;
+    margin-top: 0.91rem;
+}
+
+.boxt4 {
+    font-size: 0.18rem;
+    color: #424242;
+    float: left;
+    margin-top: 1.05rem;
+}
+
+.boxta {
+    width: 1.52rem;
+    height: 0.43rem;
+    background: #ffcb3f;
+    margin-left: 1.34rem;
+    margin-top: 0.91rem;
+    border-radius: 0.1rem;
+}
+
+.boxta1 {
+    font-size: 0.22rem;
+    text-align: center;
+    line-height: 0.43rem;
+    color: white;
+}
+
+.pa {
+    width: 100%;
+    height: 0.5rem;
+    float: left;
+    /*background: #424242;*/
+}
+
+.pa1 {
+    width: 1.13rem;
+    height: 0.01rem;
+    background: #424242;
+    float: left;
+    margin-left: 1.86rem;
+    margin-top: 0.25rem;
+}
+
+.pa2 {
+    font-size: 0.18rem;
+    line-height: 0.5rem;
+    margin-left: 0.5rem
+}
+
+.pa11 {
+    width: 1.13rem;
+    height: 0.01rem;
+    background: #424242;
+    float: left;
+    margin-left: 4.58rem;
+    margin-top: -0.25rem;
+}
+
+.zs {
+    width: 7.02rem;
+    height: 4.38rem;
+    margin-left: 0.24rem;
+}
+
+.za {
+    width: 100%;
+    height: 5rem;
+    background: #f6f6f6;
+}
+
+.zb {
+    width: 100%;
+    height: 3.16rem;
+    background: #f6f6f6;
+}
+
+.zb1 {
+    font-size: 0.28rem;
+    text-align: center;
+    font-weight: bold;
+}
+
+.zb2 {
+    font-size: 0.24rem;
+    text-align: center;
+    margin-top: 0.2rem;
+}
+
+.zb3 {
+    width: 1.4rem;
+    height: 0.6rem;
+    border-radius: 0.3rem;
+    border: solid 0.01rem #fbca4a;
+    margin-left: 3.02rem;
+    margin-top: 0.3rem;
+    text-align: center;
+    line-height: 0.6rem;
+}
+
+.zc {
+    width: 7.5rem;
+    height: 3.34rem;
+    position: relative;
+}
+
+.zcc {
+    width: 7.5rem;
+    height: 3.34rem;
+    margin-bottom: 1.2rem;
+}
+
+.zd {
+    width: 7.5rem;
+    height: 1rem;
+    background: #f6f6f6;
+}
+
+.zc1 {
+    position: relative;
+    bottom: 3rem;
+}
+
+.zc2 {
+    font-size: 0.3rem;
+    text-align: center;
+    color: white;
+}
+
+.zc3 {
+    font-size: 0.28rem;
+    text-align: center;
+    color: white;
+    margin-top: 0.2rem;
+}
+
+.zc4 {
+    font-size: 0.18rem;
+    text-align: center;
+    color: #b0b0b0;
+    margin-top: 0.2rem;
+}
